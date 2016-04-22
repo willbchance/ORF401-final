@@ -1,0 +1,47 @@
+GuestList Planning Sheet (We will have to think of a new name)
+
+Home Page 
+	- Background Image
+		- Can have a slideshow style scrolling of images of parties, conferences, etc. 
+	- Display info about what lyst does
+		- Allows you to create guests lists with customizable options
+		- Can create groups for fast invites of people to recurring events 
+		- Create a secure profile -> verify your guests -> request specific identifying information
+	- Display events near the current location, provide a search bar immediately accessible from the home page
+	- Links to Sign-Up page, Login page, etc. 
+
+Sign-Up Page
+	- Request relevant information 
+	- Verify correctness of information 
+	- Display a thank-you for signing up message and then redirect to user page. 
+
+Privacy Agreement Page
+	- Create a page that makes the user accept our privacy agreement (which secretly says we can sell all
+	their information)
+
+Login Page
+	- Display username and password boxes 
+	- Maybe some cool pictures or something
+
+User Page
+	- Display user's previous events
+	- Display create event link
+	- Display edit profile information link
+	- Display groups the user is a part of
+	- Display create invite group link 
+
+Create Event Page 
+	- Request location info
+	- Request event description
+	- Request date and time 
+	- Any additional info required of guests? 
+	- Request additional info
+
+Create Group
+	- Allow user to search for users based on username, profile name, email
+	- If multiple users match name, display users in order of location
+	- Don't allow same user to be added twice
+
+
+
+
